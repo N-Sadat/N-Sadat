@@ -1,8 +1,8 @@
 <!-- Profile Header -->
 <h1 align="center">Hi 👋, I'm Nazmus Sadat</h1>
 <h3 align="center">🔐 Passionate about Cybersecurity, Ethical Hacking & Linux Automation</h3>
-<be>
-  <h6> I've just started learning </h6>
+<br>
+  <h6 align="center"> I've just started learning </h6>
 ---
 
 <!-- About Me -->
